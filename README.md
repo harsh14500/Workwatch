@@ -19,4 +19,3 @@ WorkWatch is a machine learning-powered platform designed to monitor, analyze, a
 - **Modeling**: Logistic Regression, Random Forest
 - **Deployment**: Local Streamlit App
 
-## 📁 Folder Structure
